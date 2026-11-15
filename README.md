@@ -2,7 +2,7 @@
 
 FYP research code for investigating whether visible-light and near-infrared process images from laser powder bed fusion relate to local XCT flaw annotations.
 
-This private repository preserves the original inspection scripts, source preparation, exploratory models, development diagnostics, and report-generation code. It also includes the latest [data and cleaning report](reports/FYP_Data_and_Cleaning_Update.pdf).
+This repository preserves the original inspection scripts, source preparation, exploratory models, development diagnostics, and report-generation code. It also includes the latest [data and cleaning report](reports/FYP_Data_and_Cleaning_Update.pdf).
 
 ## Project status
 
