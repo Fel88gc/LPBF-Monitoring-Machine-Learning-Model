@@ -1,0 +1,5 @@
+# Imported research snapshots contain byte-sensitive provenance hashes.
+# Preserve their original line endings instead of normalizing on checkout.
+* -text
+*.pdf binary
+*.png binary

@@ -1,0 +1,151 @@
+{
+  "captured_at_utc": "2026-11-08T08:12:29.954162+00:00",
+  "files": [
+    {
+      "path": "data\\processed\\snow_pilot_manifest.csv",
+      "size": 67427,
+      "sha256": "255b14d264b58c68863b5053c87e449fd512a5033528767faf12d9fd2dc6bea1"
+    },
+    {
+      "path": "data\\processed\\snow_pilot_patches.npz.npz",
+      "size": 6100709,
+      "sha256": "7ab345d97ce684c96d5a7db58e7710e62b05a26ccff6a00ef87ca187e724309d"
+    },
+    {
+      "path": "readme.md",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "results\\snow_alignment_P16_layer600.png",
+      "size": 556717,
+      "sha256": "bc286c59d44119256f200d7eb471d0342591d60dfc7ab2fd1d8a4865a0103d43"
+    },
+    {
+      "path": "results\\snow_layer_500_preview.png",
+      "size": 1042339,
+      "sha256": "a4e4d833b8d2e057d01355c0fb0e00db7cc1fc2e23b9f49a737ab259b40a8f06"
+    },
+    {
+      "path": "results\\snow_P16_layer600_patch_audit.csv",
+      "size": 1214,
+      "sha256": "f549d576ccde13402748ecde5fb2310cf0193101e7fe9e8257e6f8b3744592b2"
+    },
+    {
+      "path": "results\\snow_registration_metadata.txt",
+      "size": 18629,
+      "sha256": "8d2ad56fc477589ff82fe96b73617da7416b107301f39eb7bd90210daf7c551f"
+    },
+    {
+      "path": "results\\snow_slide6_xct_masks\\snow_P16_L600_negative_xct_mask.png",
+      "size": 224,
+      "sha256": "84968dfb8cfc77ea473842d38ba9e91744649b5d41b43691f611dc81dc35f2c5"
+    },
+    {
+      "path": "results\\snow_slide6_xct_masks\\snow_P16_L600_negative_xct_overlay.png",
+      "size": 24183,
+      "sha256": "1f14519a47f0344ceea7f8f1f258c4238cb008f013afc6292ffc57f81d2e6f48"
+    },
+    {
+      "path": "results\\snow_slide6_xct_masks\\snow_P16_L600_positive_xct_mask.png",
+      "size": 510,
+      "sha256": "d9230753f35d9ef439e7d19e356d5daa79c4d757eb3c2a869a7b322e4a6fdab8"
+    },
+    {
+      "path": "results\\snow_slide6_xct_masks\\snow_P16_L600_positive_xct_overlay.png",
+      "size": 22364,
+      "sha256": "5094674c9d3089ac1ef005a9d26b1a63f551c02e0d8e5a97494e1eb4fe35def9"
+    },
+    {
+      "path": "results\\snow_slide6_xct_masks\\snow_P16_L600_xct_extraction_audit.txt",
+      "size": 300,
+      "sha256": "1a082372a34e58bdc6ffd6185913b44bf863a8a4b53866610d037d04a2ca3d9f"
+    },
+    {
+      "path": "results\\snow_xct_layer_522_verified.png",
+      "size": 123962,
+      "sha256": "937b99ee61de46a292ca40526c945e2886bcbeda8992a2e4e888b6fcf3c93d90"
+    },
+    {
+      "path": "snow_structure.txt",
+      "size": 19666,
+      "sha256": "fe193c7ac7e70c9e3b247621d5dfaedd80e5f89ab02d3d97827a2c2dac993292"
+    },
+    {
+      "path": "snow_target_audit.txt",
+      "size": 5002,
+      "sha256": "6c90ce8a199ca54fb82fe78d040fbb847905d0a0c91adffccdd987259eafea24"
+    },
+    {
+      "path": "src\\audit_snow_ml_patches.py",
+      "size": 3508,
+      "sha256": "2833c264c41fa2c8a1b95f049b835beec88ac738a26ece2433e0a3810d688b10"
+    },
+    {
+      "path": "src\\build_snow_pilot_dataset.py",
+      "size": 6149,
+      "sha256": "d9d86f72f43368b4793fc12b036125f0bfc931354298a6553654f78fe68651ad"
+    },
+    {
+      "path": "src\\check_snow_label_mapping.py",
+      "size": 1645,
+      "sha256": "61511424f0ec9de53f4f4f74f28aae573058014040a0d3dfaf5cba32decb1f37"
+    },
+    {
+      "path": "src\\check_snow_xct_storage.py",
+      "size": 3332,
+      "sha256": "4cb10767cb8490f71a8dca9f84af2ca5c9ffb5f4a2143e2a60b07e572b488c6e"
+    },
+    {
+      "path": "src\\export_snow_slide6_xct_masks.py",
+      "size": 5974,
+      "sha256": "3da1bd5479b107a3e6c3bc8ea50c343c1f29ff63bfddf47e588c702de5e90344"
+    },
+    {
+      "path": "src\\find_snow_xct.py",
+      "size": 3436,
+      "sha256": "1459695c5ce25ef0e05baac7ff6b7833590f82084f81dcb9d8606580b546c0e3"
+    },
+    {
+      "path": "src\\inspect_snow.py",
+      "size": 1938,
+      "sha256": "c8dde48fc135614841e1268f3360feff247c8c9fcb162a4a67b5ef352515df57"
+    },
+    {
+      "path": "src\\inspect_snow_metadata.py",
+      "size": 1868,
+      "sha256": "f9822d4957b26ee2ce67c0d6cd478d4c2fb506acbd94ed021479367e2365618b"
+    },
+    {
+      "path": "src\\inspect_snow_stage2.py",
+      "size": 2888,
+      "sha256": "8505de804b7c2b4d25ce8ec835863f9ba3ebc43d871606262cb636c8dbcdf9c6"
+    },
+    {
+      "path": "src\\inspect_snow_stage3.py",
+      "size": 2927,
+      "sha256": "1dc7202e8cb8311c4f12283699a960c6b492c2b2d946e5cf16d302c7edf6b57a"
+    },
+    {
+      "path": "src\\verify_snow_alignment.py",
+      "size": 4538,
+      "sha256": "b26e48f27f32f3a7fc5f1f64e63174617359e8dd18e3f27002c43c029d6097f7"
+    },
+    {
+      "path": "src\\visualize_snow.py",
+      "size": 2200,
+      "sha256": "3c69681e4d333ff6e7761e81ed179fdde90c543fe5bbd041a0d156b258783b39"
+    },
+    {
+      "path": "src\\visualize_snow_xct.py",
+      "size": 2796,
+      "sha256": "263acfa8f543c89c4948b422aa1f492d5335ae26e4fd66dee545fbbe7c2e676b"
+    }
+  ],
+  "raw": {
+    "path": "data\\raw\\2024-05-01 M2 AMMTO Fatigue Blanks 05.hdf5",
+    "size": 127808960296,
+    "mtime_ns": 1792049214625647500,
+    "verification_scope": "stat only; no full128GB hash"
+  }
+}
